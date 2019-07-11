@@ -1,0 +1,2 @@
+- `node calculator.js < calculator-test-data.txt`
+- `node snake.js < snake-test-data.txt`
